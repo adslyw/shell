@@ -1,2 +1,2 @@
 # shell
-一些常用的shell script
+工欲善其事，必先利其器。
